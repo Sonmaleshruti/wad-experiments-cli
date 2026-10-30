@@ -1,0 +1,25 @@
+
+{
+  "name": "wad-experiments-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to download Web Application Development experiments",
+  "main": "index.js",
+  "bin": {
+    "wad-experiments-cli": "./index.js"
+  },
+  "keywords": [
+    "web-development",
+    "college-experiments",
+    "wad",
+    "cli"
+  ],
+  "author": "Shruti Sonmale",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
